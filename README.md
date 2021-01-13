@@ -1,3 +1,4 @@
-# matan-puppet
+# Salt Repo
+## Matan Ryngler
 
-a repo for my puppet training, nothing else
+My private saltstack repository for testing and working
